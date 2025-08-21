@@ -27,7 +27,11 @@ Derzeit baue ich spannende Projekte mit modernen Technologien und erweitere stä
 
 
 ---
+## Meine Zertifikate
 
+![Zertifikat](https://raw.githubusercontent.com/theoXlol/portfolio-page/main/images/web%20certificate.jpg)
+---
+## Mein Portfolio
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](theoxlol.netlify.app)
 
