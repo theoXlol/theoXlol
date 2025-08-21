@@ -34,7 +34,8 @@ Derzeit baue ich spannende Projekte mit modernen Technologien und erweitere stä
 ---
 ## Mein Portfolio
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](theoxlol.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://theoxlol.netlify.app)
+
 
 
 ---
