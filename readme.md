@@ -5,6 +5,15 @@ Derzeit baue ich spannende Projekte mit modernen Technologien und erweitere stä
 
 ---
 
+## Mein Portfolio
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://theoxlol.netlify.app)
+
+
+
+
+---
+
 ## 🚀 Meine Skills
 
 **Frontend**  
@@ -31,13 +40,6 @@ Derzeit baue ich spannende Projekte mit modernen Technologien und erweitere stä
 
 ![Zertifikat](https://raw.githubusercontent.com/theoXlol/portfolio-page/main/images/SQL_Certificate.jpg)
 ![Zertifikat](https://raw.githubusercontent.com/theoXlol/portfolio-page/main/images/web%20certificate.jpg)
----
-## Mein Portfolio
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://theoxlol.netlify.app)
-
-
-
 ---
 
 ## 📊 GitHub Stats
